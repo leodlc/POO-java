@@ -1,0 +1,16 @@
+Mostrando historial de la mascota: Osita
+Vacunas: 
+Vacuna{tipoDeVacuna='Moquillo', fechaDeVacuna='10 de Enero del 2020'}
+Vacuna{tipoDeVacuna='Rabia', fechaDeVacuna='10 de Enero del 2020'}
+Enfermedades : 
+Enfermedad{tipoDeEnfermedad='Parvovirus', fechaDeEnfermedad='28 de Noviembre 2021'}
+Enfermedad{tipoDeEnfermedad='Rabia', fechaDeEnfermedad='28 de Noviembre 2021'}
+
+Mostrando historial de la mascota: Osita
+Vacunas: 
+Vacuna{tipoDeVacuna='Moquillo', fechaDeVacuna='10 de Enero del 2020'}
+Vacuna{tipoDeVacuna='Rabia', fechaDeVacuna='10 de Enero del 2020'}
+Enfermedades : 
+Enfermedad{tipoDeEnfermedad='Parvovirus', fechaDeEnfermedad='28 de Noviembre 2021'}
+Enfermedad{tipoDeEnfermedad='Rabia', fechaDeEnfermedad='28 de Noviembre 2021'}
+
