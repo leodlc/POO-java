@@ -1,0 +1,3 @@
+codigo, enfermedad, fecha
+1, rabia, 2021-07-22
+1, sarna, 2021-08-29
